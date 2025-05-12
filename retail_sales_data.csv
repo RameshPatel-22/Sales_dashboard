@@ -1,0 +1,301 @@
+OrderID,OrderDate,CustomerName,Region,CustomerType,Category,Product,SalesChannel,UnitsSold,UnitPrice,TotalRevenue
+ORD1000,2023-11-23,Alice,North,Wholesale,Clothing,Shirt,Online,4,660,2640
+ORD1001,2023-05-12,Bob,West,Premium,Clothing,Jacket,Online,9,1474,13266
+ORD1002,2023-09-09,Bob,North,Premium,Furniture,Chair,In-Store,4,1243,4972
+ORD1003,2023-12-30,Alice,East,Premium,Furniture,Dining Table,Reseller,3,594,1782
+ORD1004,2023-04-01,Charlie,South,Regular,Home Appliances,Air Conditioner,Reseller,6,316,1896
+ORD1005,2023-05-06,Eva,West,Wholesale,Electronics,Laptop,In-Store,10,188,1880
+ORD1006,2023-05-21,Alice,West,Regular,Home Appliances,Microwave,Online,3,322,966
+ORD1007,2023-05-06,Grace,West,Wholesale,Home Appliances,Microwave,In-Store,2,1393,2786
+ORD1008,2023-11-13,Charlie,East,Regular,Electronics,Tablet,Reseller,10,625,6250
+ORD1009,2023-12-14,Bob,North,Regular,Furniture,Dining Table,In-Store,9,1174,10566
+ORD1010,2023-07-10,Eva,East,Wholesale,Furniture,Chair,Reseller,14,654,9156
+ORD1011,2023-04-27,Grace,South,Wholesale,Furniture,Sofa,Online,12,973,11676
+ORD1012,2023-02-13,Frank,North,Premium,Clothing,Jeans,Reseller,6,207,1242
+ORD1013,2023-06-22,Eva,East,Wholesale,Electronics,Tablet,Reseller,13,821,10673
+ORD1014,2023-05-29,Charlie,East,Regular,Home Appliances,Washing Machine,Online,13,964,12532
+ORD1015,2023-07-22,Grace,West,Regular,Electronics,Camera,Reseller,6,1386,8316
+ORD1016,2023-06-13,Frank,South,Wholesale,Home Appliances,Washing Machine,In-Store,12,1402,16824
+ORD1017,2023-08-21,Eva,North,Regular,Electronics,Tablet,In-Store,3,196,588
+ORD1018,2023-01-01,Bob,North,Regular,Furniture,Chair,Reseller,1,1316,1316
+ORD1019,2023-05-24,Grace,South,Wholesale,Clothing,Dress,Reseller,5,1432,7160
+ORD1020,2023-01-12,Grace,East,Regular,Home Appliances,Microwave,In-Store,7,1120,7840
+ORD1021,2023-09-29,Charlie,East,Regular,Furniture,Chair,Online,10,885,8850
+ORD1022,2023-06-05,Grace,South,Wholesale,Home Appliances,Air Conditioner,Reseller,8,507,4056
+ORD1023,2023-05-02,Bob,West,Wholesale,Furniture,Bed,Reseller,5,1181,5905
+ORD1024,2023-03-31,Eva,North,Wholesale,Home Appliances,Microwave,In-Store,12,825,9900
+ORD1025,2023-11-12,Eva,West,Premium,Electronics,Laptop,Online,8,847,6776
+ORD1026,2023-08-08,Charlie,East,Premium,Electronics,Laptop,Reseller,2,689,1378
+ORD1027,2023-08-16,Grace,West,Regular,Clothing,Dress,In-Store,5,190,950
+ORD1028,2023-05-25,Eva,South,Wholesale,Electronics,Smartphone,Online,11,651,7161
+ORD1029,2023-07-31,David,West,Premium,Home Appliances,Air Conditioner,In-Store,9,1078,9702
+ORD1030,2023-08-28,Grace,South,Wholesale,Electronics,Tablet,Reseller,13,881,11453
+ORD1031,2023-02-15,Alice,East,Wholesale,Home Appliances,Refrigerator,In-Store,13,1058,13754
+ORD1032,2023-03-23,Eva,South,Regular,Electronics,Camera,Reseller,3,1426,4278
+ORD1033,2023-07-16,Bob,South,Premium,Furniture,Sofa,Reseller,3,405,1215
+ORD1034,2023-01-10,Frank,East,Regular,Electronics,Camera,Reseller,9,599,5391
+ORD1035,2023-08-30,Bob,South,Regular,Furniture,Bed,In-Store,8,947,7576
+ORD1036,2023-01-05,Bob,South,Premium,Furniture,Chair,In-Store,11,1026,11286
+ORD1037,2023-10-16,Eva,West,Premium,Furniture,Sofa,Reseller,7,1165,8155
+ORD1038,2023-05-26,Eva,North,Wholesale,Clothing,Dress,In-Store,6,1238,7428
+ORD1039,2023-10-09,Grace,North,Regular,Home Appliances,Microwave,In-Store,1,1002,1002
+ORD1040,2023-10-10,Eva,North,Premium,Home Appliances,Washing Machine,Reseller,9,976,8784
+ORD1041,2023-04-09,Alice,East,Premium,Home Appliances,Air Conditioner,In-Store,1,254,254
+ORD1042,2023-11-07,Eva,South,Regular,Furniture,Chair,Reseller,1,554,554
+ORD1043,2023-07-16,David,West,Wholesale,Electronics,Smartphone,Reseller,6,625,3750
+ORD1044,2023-01-23,David,South,Regular,Home Appliances,Refrigerator,In-Store,5,920,4600
+ORD1045,2023-07-21,Grace,South,Wholesale,Furniture,Bed,In-Store,5,826,4130
+ORD1046,2023-05-25,Alice,East,Wholesale,Home Appliances,Refrigerator,Reseller,10,232,2320
+ORD1047,2023-01-01,Bob,West,Regular,Furniture,Sofa,Online,5,1251,6255
+ORD1048,2023-07-24,Bob,South,Regular,Electronics,Tablet,In-Store,3,834,2502
+ORD1049,2023-10-15,Bob,North,Wholesale,Home Appliances,Air Conditioner,Online,4,598,2392
+ORD1050,2023-03-13,Alice,South,Regular,Clothing,Dress,Online,2,244,488
+ORD1051,2023-09-07,Bob,West,Wholesale,Electronics,Smartphone,Reseller,7,303,2121
+ORD1052,2023-04-28,Alice,West,Regular,Furniture,Bed,In-Store,2,587,1174
+ORD1053,2023-09-25,Eva,South,Premium,Clothing,Jeans,Reseller,3,1479,4437
+ORD1054,2023-08-24,Frank,East,Premium,Furniture,Sofa,Reseller,1,1227,1227
+ORD1055,2023-08-10,Frank,South,Wholesale,Furniture,Sofa,Reseller,5,1139,5695
+ORD1056,2023-04-22,Bob,North,Premium,Clothing,Jacket,Reseller,11,550,6050
+ORD1057,2023-08-17,Charlie,South,Wholesale,Furniture,Dining Table,Reseller,7,1380,9660
+ORD1058,2023-03-16,Charlie,East,Regular,Furniture,Chair,Reseller,5,727,3635
+ORD1059,2023-07-11,David,East,Premium,Home Appliances,Air Conditioner,Reseller,3,252,756
+ORD1060,2023-10-21,David,North,Premium,Electronics,Smartphone,In-Store,12,887,10644
+ORD1061,2023-12-04,Charlie,East,Premium,Electronics,Camera,Reseller,2,247,494
+ORD1062,2023-11-04,Alice,East,Wholesale,Clothing,Shirt,Online,14,1008,14112
+ORD1063,2023-12-01,Bob,South,Wholesale,Clothing,Jeans,Reseller,9,315,2835
+ORD1064,2023-09-04,David,East,Regular,Clothing,Shirt,Online,12,691,8292
+ORD1065,2023-05-13,David,South,Wholesale,Furniture,Dining Table,In-Store,10,230,2300
+ORD1066,2023-05-18,Eva,West,Wholesale,Clothing,Dress,In-Store,13,1049,13637
+ORD1067,2023-12-06,Frank,East,Premium,Electronics,Camera,In-Store,8,934,7472
+ORD1068,2023-02-03,Grace,West,Wholesale,Electronics,Tablet,In-Store,8,218,1744
+ORD1069,2023-07-24,Frank,East,Premium,Furniture,Dining Table,In-Store,6,202,1212
+ORD1070,2023-08-28,Grace,East,Wholesale,Electronics,Smartphone,In-Store,14,192,2688
+ORD1071,2023-09-06,Bob,East,Wholesale,Furniture,Chair,In-Store,11,260,2860
+ORD1072,2023-12-02,Alice,East,Wholesale,Electronics,Tablet,In-Store,7,1356,9492
+ORD1073,2023-12-26,Bob,South,Premium,Home Appliances,Refrigerator,Online,11,1049,11539
+ORD1074,2023-07-14,Charlie,North,Premium,Clothing,Shirt,Online,4,430,1720
+ORD1075,2023-04-03,Bob,South,Wholesale,Home Appliances,Refrigerator,Reseller,3,816,2448
+ORD1076,2023-05-02,David,South,Wholesale,Clothing,Shirt,In-Store,2,210,420
+ORD1077,2023-04-02,Bob,East,Wholesale,Electronics,Smartphone,Online,3,1178,3534
+ORD1078,2023-11-22,Eva,West,Premium,Furniture,Chair,In-Store,10,683,6830
+ORD1079,2023-08-21,Grace,West,Wholesale,Home Appliances,Microwave,In-Store,1,794,794
+ORD1080,2023-02-15,Frank,South,Premium,Home Appliances,Washing Machine,Reseller,12,495,5940
+ORD1081,2023-08-06,Bob,West,Premium,Clothing,Shirt,In-Store,2,1251,2502
+ORD1082,2023-10-09,Frank,South,Premium,Clothing,Jacket,Reseller,13,1246,16198
+ORD1083,2023-05-01,Frank,West,Regular,Furniture,Sofa,Reseller,9,196,1764
+ORD1084,2023-02-25,David,South,Regular,Clothing,Shirt,Reseller,6,388,2328
+ORD1085,2023-11-15,Bob,South,Regular,Home Appliances,Air Conditioner,In-Store,14,256,3584
+ORD1086,2023-01-26,Alice,South,Premium,Clothing,Shirt,Online,13,486,6318
+ORD1087,2023-01-08,Alice,South,Premium,Furniture,Sofa,In-Store,4,1430,5720
+ORD1088,2023-06-29,Charlie,North,Regular,Home Appliances,Microwave,Reseller,1,1426,1426
+ORD1089,2023-01-14,Frank,South,Regular,Electronics,Camera,Online,8,875,7000
+ORD1090,2023-03-19,Grace,South,Wholesale,Electronics,Smartphone,In-Store,10,177,1770
+ORD1091,2023-06-03,Frank,North,Regular,Clothing,Shirt,Reseller,8,514,4112
+ORD1092,2023-11-08,Frank,West,Regular,Clothing,Shirt,Reseller,14,848,11872
+ORD1093,2023-01-03,David,South,Wholesale,Home Appliances,Microwave,Online,3,1180,3540
+ORD1094,2023-12-29,Charlie,West,Regular,Electronics,Camera,Online,7,899,6293
+ORD1095,2023-10-21,Alice,East,Regular,Clothing,Jeans,In-Store,12,1447,17364
+ORD1096,2023-07-11,David,South,Wholesale,Home Appliances,Microwave,Reseller,3,1188,3564
+ORD1097,2023-01-28,David,South,Premium,Electronics,Laptop,Reseller,9,634,5706
+ORD1098,2023-09-30,Alice,East,Premium,Furniture,Chair,In-Store,10,1212,12120
+ORD1099,2023-05-06,Charlie,West,Regular,Furniture,Bed,In-Store,7,235,1645
+ORD1100,2023-05-25,David,North,Wholesale,Electronics,Smartphone,In-Store,12,686,8232
+ORD1101,2023-01-25,Bob,West,Regular,Electronics,Laptop,In-Store,13,1385,18005
+ORD1102,2023-08-21,Bob,South,Wholesale,Furniture,Sofa,Reseller,4,216,864
+ORD1103,2023-04-21,Charlie,West,Regular,Furniture,Sofa,Online,13,1319,17147
+ORD1104,2023-02-03,Charlie,North,Premium,Furniture,Dining Table,Online,4,260,1040
+ORD1105,2023-03-24,Eva,West,Wholesale,Furniture,Sofa,Online,8,897,7176
+ORD1106,2023-04-11,Charlie,North,Regular,Furniture,Sofa,In-Store,10,574,5740
+ORD1107,2023-10-09,Charlie,South,Premium,Clothing,Jacket,Online,6,841,5046
+ORD1108,2023-12-31,Frank,West,Regular,Furniture,Bed,In-Store,2,464,928
+ORD1109,2023-05-30,Charlie,West,Wholesale,Home Appliances,Microwave,In-Store,6,1462,8772
+ORD1110,2023-01-04,Grace,South,Regular,Furniture,Sofa,Online,5,773,3865
+ORD1111,2023-11-14,Eva,South,Regular,Electronics,Smartphone,Reseller,14,992,13888
+ORD1112,2023-05-17,Grace,East,Regular,Clothing,Dress,In-Store,14,972,13608
+ORD1113,2023-08-31,Charlie,East,Wholesale,Electronics,Laptop,Reseller,7,1048,7336
+ORD1114,2023-02-05,Grace,East,Wholesale,Home Appliances,Washing Machine,Reseller,8,378,3024
+ORD1115,2023-01-06,Alice,East,Premium,Clothing,Jeans,In-Store,8,1396,11168
+ORD1116,2023-08-08,Charlie,East,Premium,Home Appliances,Microwave,Online,2,617,1234
+ORD1117,2023-12-01,Alice,North,Regular,Furniture,Dining Table,Online,11,153,1683
+ORD1118,2023-04-04,Alice,East,Premium,Home Appliances,Air Conditioner,Online,6,267,1602
+ORD1119,2023-03-03,Frank,North,Regular,Electronics,Camera,Reseller,8,1096,8768
+ORD1120,2023-12-01,Eva,South,Wholesale,Furniture,Chair,In-Store,9,343,3087
+ORD1121,2023-06-22,Charlie,West,Regular,Clothing,Jacket,Reseller,11,1199,13189
+ORD1122,2023-04-28,Grace,West,Wholesale,Home Appliances,Air Conditioner,Reseller,12,475,5700
+ORD1123,2023-08-13,Frank,North,Regular,Electronics,Tablet,Reseller,4,873,3492
+ORD1124,2023-05-20,Frank,West,Regular,Clothing,Shirt,Reseller,4,262,1048
+ORD1125,2023-05-22,Frank,North,Regular,Home Appliances,Air Conditioner,Reseller,1,239,239
+ORD1126,2023-12-22,Charlie,East,Premium,Clothing,Dress,Reseller,6,288,1728
+ORD1127,2023-06-10,Bob,West,Wholesale,Clothing,Dress,Online,13,408,5304
+ORD1128,2023-01-10,Frank,South,Regular,Home Appliances,Washing Machine,In-Store,6,839,5034
+ORD1129,2023-01-13,Bob,South,Wholesale,Home Appliances,Air Conditioner,Reseller,5,321,1605
+ORD1130,2023-11-15,Alice,West,Wholesale,Electronics,Smartphone,Online,8,470,3760
+ORD1131,2023-09-30,David,East,Regular,Electronics,Camera,Reseller,5,478,2390
+ORD1132,2023-02-07,Alice,West,Regular,Home Appliances,Microwave,In-Store,9,1060,9540
+ORD1133,2023-11-01,David,South,Premium,Clothing,Dress,Online,7,1268,8876
+ORD1134,2023-08-24,Frank,South,Premium,Electronics,Smartphone,Reseller,5,467,2335
+ORD1135,2023-05-17,Charlie,North,Regular,Home Appliances,Air Conditioner,Reseller,2,483,966
+ORD1136,2023-02-04,Frank,South,Wholesale,Furniture,Dining Table,Online,2,737,1474
+ORD1137,2023-11-16,Alice,South,Premium,Furniture,Sofa,Online,1,1469,1469
+ORD1138,2023-08-17,Frank,West,Wholesale,Clothing,Dress,In-Store,6,1022,6132
+ORD1139,2023-10-18,Frank,South,Premium,Electronics,Camera,Reseller,14,947,13258
+ORD1140,2023-01-05,Bob,West,Premium,Electronics,Laptop,Online,5,1338,6690
+ORD1141,2023-03-03,Frank,North,Regular,Home Appliances,Washing Machine,In-Store,3,227,681
+ORD1142,2023-08-25,Eva,South,Regular,Electronics,Camera,Online,4,750,3000
+ORD1143,2023-10-23,Charlie,South,Regular,Electronics,Camera,In-Store,10,238,2380
+ORD1144,2023-04-14,Charlie,South,Regular,Clothing,Shirt,In-Store,8,1468,11744
+ORD1145,2023-06-28,Eva,North,Premium,Clothing,Jacket,Online,14,949,13286
+ORD1146,2023-12-19,Charlie,North,Wholesale,Home Appliances,Refrigerator,In-Store,13,571,7423
+ORD1147,2023-05-23,Grace,South,Wholesale,Furniture,Sofa,In-Store,7,724,5068
+ORD1148,2023-05-25,Charlie,East,Regular,Electronics,Laptop,Reseller,1,814,814
+ORD1149,2023-11-05,Frank,North,Regular,Furniture,Sofa,Online,1,1156,1156
+ORD1150,2023-02-08,Frank,North,Regular,Electronics,Camera,Reseller,8,253,2024
+ORD1151,2023-05-14,David,North,Premium,Clothing,Jacket,Online,3,347,1041
+ORD1152,2023-06-28,David,West,Premium,Home Appliances,Refrigerator,In-Store,3,540,1620
+ORD1153,2023-01-15,Alice,South,Wholesale,Furniture,Dining Table,In-Store,8,703,5624
+ORD1154,2023-08-19,David,East,Premium,Electronics,Tablet,In-Store,13,1462,19006
+ORD1155,2023-06-06,Eva,North,Wholesale,Electronics,Smartphone,Reseller,11,569,6259
+ORD1156,2023-10-16,Grace,West,Wholesale,Furniture,Chair,Reseller,6,1270,7620
+ORD1157,2023-03-27,Grace,North,Regular,Home Appliances,Washing Machine,In-Store,14,345,4830
+ORD1158,2023-05-03,Frank,East,Regular,Clothing,Dress,Reseller,2,666,1332
+ORD1159,2023-04-28,David,West,Premium,Electronics,Smartphone,Online,10,1014,10140
+ORD1160,2023-10-30,Bob,West,Regular,Furniture,Sofa,In-Store,6,1332,7992
+ORD1161,2023-07-03,Bob,East,Wholesale,Clothing,Dress,Reseller,4,365,1460
+ORD1162,2023-06-06,Bob,South,Premium,Home Appliances,Washing Machine,Online,13,1434,18642
+ORD1163,2023-06-22,Bob,North,Premium,Clothing,Shirt,In-Store,4,993,3972
+ORD1164,2023-04-25,Frank,North,Premium,Furniture,Chair,Reseller,2,244,488
+ORD1165,2023-10-09,Grace,West,Wholesale,Furniture,Dining Table,Online,3,1465,4395
+ORD1166,2023-03-10,David,North,Premium,Furniture,Chair,In-Store,11,1456,16016
+ORD1167,2023-09-11,Eva,North,Wholesale,Clothing,Jeans,In-Store,4,160,640
+ORD1168,2023-02-07,Grace,West,Premium,Electronics,Smartphone,Reseller,10,1021,10210
+ORD1169,2023-01-23,Grace,East,Wholesale,Furniture,Sofa,In-Store,6,861,5166
+ORD1170,2023-12-29,Alice,North,Wholesale,Furniture,Sofa,Reseller,10,451,4510
+ORD1171,2023-05-21,Alice,East,Regular,Home Appliances,Microwave,In-Store,12,367,4404
+ORD1172,2023-07-29,Charlie,East,Regular,Home Appliances,Air Conditioner,Online,8,1107,8856
+ORD1173,2023-04-21,David,North,Regular,Clothing,Dress,In-Store,9,1142,10278
+ORD1174,2023-06-20,David,North,Regular,Clothing,Shirt,Online,8,977,7816
+ORD1175,2023-12-22,Alice,West,Regular,Electronics,Camera,In-Store,12,1153,13836
+ORD1176,2023-10-20,Alice,North,Regular,Clothing,Dress,In-Store,4,1306,5224
+ORD1177,2023-04-16,Grace,South,Premium,Clothing,Dress,Reseller,8,276,2208
+ORD1178,2023-10-14,Bob,South,Premium,Clothing,Jeans,Online,1,753,753
+ORD1179,2023-02-20,Eva,North,Regular,Home Appliances,Air Conditioner,Reseller,10,1163,11630
+ORD1180,2023-10-24,David,West,Wholesale,Clothing,Jeans,Online,13,1469,19097
+ORD1181,2023-09-14,Bob,North,Regular,Furniture,Chair,Reseller,6,928,5568
+ORD1182,2023-07-01,Frank,North,Wholesale,Electronics,Laptop,In-Store,14,569,7966
+ORD1183,2023-01-01,Frank,North,Premium,Clothing,Jeans,Online,7,974,6818
+ORD1184,2023-05-29,Charlie,South,Wholesale,Furniture,Dining Table,Reseller,6,716,4296
+ORD1185,2023-05-17,Grace,East,Wholesale,Home Appliances,Washing Machine,Reseller,9,1482,13338
+ORD1186,2023-04-27,David,East,Regular,Furniture,Bed,Online,10,462,4620
+ORD1187,2023-10-18,Bob,North,Premium,Electronics,Laptop,In-Store,10,1086,10860
+ORD1188,2023-03-31,Grace,West,Wholesale,Electronics,Laptop,Online,4,686,2744
+ORD1189,2023-07-29,Frank,East,Regular,Furniture,Bed,Online,11,535,5885
+ORD1190,2023-12-13,Grace,East,Premium,Clothing,Jeans,Reseller,11,567,6237
+ORD1191,2023-12-30,Frank,East,Wholesale,Home Appliances,Refrigerator,In-Store,1,789,789
+ORD1192,2023-07-01,Charlie,West,Regular,Electronics,Tablet,In-Store,11,1352,14872
+ORD1193,2023-06-29,Alice,West,Regular,Electronics,Tablet,In-Store,8,174,1392
+ORD1194,2023-06-26,Grace,South,Premium,Electronics,Camera,Online,6,1334,8004
+ORD1195,2023-05-30,Frank,East,Wholesale,Furniture,Bed,Online,13,212,2756
+ORD1196,2023-02-18,David,West,Premium,Electronics,Camera,Online,10,305,3050
+ORD1197,2023-03-25,David,East,Premium,Clothing,Jacket,Reseller,7,998,6986
+ORD1198,2023-05-28,Alice,South,Regular,Furniture,Chair,Reseller,9,838,7542
+ORD1199,2023-03-04,Bob,North,Regular,Home Appliances,Air Conditioner,Online,6,491,2946
+ORD1200,2023-11-23,Alice,East,Wholesale,Furniture,Chair,In-Store,13,710,9230
+ORD1201,2023-08-03,Grace,South,Regular,Clothing,Jacket,Online,1,1314,1314
+ORD1202,2023-07-30,Charlie,West,Regular,Clothing,Dress,Online,3,1101,3303
+ORD1203,2023-06-07,Grace,East,Premium,Clothing,Jeans,Reseller,14,181,2534
+ORD1204,2023-10-13,David,South,Regular,Clothing,Shirt,In-Store,13,1478,19214
+ORD1205,2023-01-18,Bob,East,Premium,Home Appliances,Refrigerator,Online,8,1192,9536
+ORD1206,2023-06-24,Charlie,West,Regular,Home Appliances,Microwave,In-Store,1,739,739
+ORD1207,2023-04-23,Frank,West,Regular,Furniture,Bed,Online,2,343,686
+ORD1208,2023-06-15,Frank,North,Premium,Clothing,Jacket,Reseller,2,1395,2790
+ORD1209,2023-05-12,Alice,South,Premium,Clothing,Jeans,Online,3,980,2940
+ORD1210,2023-02-24,Alice,South,Premium,Furniture,Sofa,Online,1,1437,1437
+ORD1211,2023-09-23,Bob,South,Premium,Home Appliances,Microwave,In-Store,7,949,6643
+ORD1212,2023-03-28,Grace,West,Regular,Home Appliances,Microwave,Online,10,311,3110
+ORD1213,2023-12-15,Alice,North,Premium,Clothing,Dress,Online,7,1351,9457
+ORD1214,2023-11-09,David,West,Premium,Electronics,Tablet,Reseller,8,982,7856
+ORD1215,2023-09-12,Bob,North,Premium,Clothing,Jeans,Reseller,7,592,4144
+ORD1216,2023-02-23,Grace,South,Premium,Clothing,Dress,In-Store,13,477,6201
+ORD1217,2023-08-17,Charlie,North,Wholesale,Home Appliances,Refrigerator,Online,9,1412,12708
+ORD1218,2023-04-07,Bob,East,Wholesale,Electronics,Laptop,Reseller,3,1224,3672
+ORD1219,2023-09-21,Frank,North,Wholesale,Clothing,Jeans,In-Store,12,1156,13872
+ORD1220,2023-03-29,Eva,South,Wholesale,Home Appliances,Washing Machine,Reseller,2,245,490
+ORD1221,2023-04-30,Eva,South,Regular,Furniture,Bed,In-Store,14,1461,20454
+ORD1222,2023-06-14,Eva,West,Regular,Furniture,Sofa,Online,14,640,8960
+ORD1223,2023-08-11,Alice,West,Wholesale,Furniture,Chair,In-Store,6,618,3708
+ORD1224,2023-01-07,Alice,South,Regular,Electronics,Camera,Online,7,1093,7651
+ORD1225,2023-06-10,Frank,North,Premium,Home Appliances,Air Conditioner,In-Store,10,924,9240
+ORD1226,2023-05-27,Grace,North,Premium,Electronics,Camera,In-Store,7,1258,8806
+ORD1227,2023-02-05,Grace,South,Wholesale,Clothing,Jeans,Online,13,1064,13832
+ORD1228,2023-03-23,David,North,Premium,Clothing,Shirt,Reseller,13,849,11037
+ORD1229,2023-07-16,Grace,West,Regular,Electronics,Tablet,Online,2,964,1928
+ORD1230,2023-07-14,Charlie,West,Regular,Electronics,Camera,Online,4,895,3580
+ORD1231,2023-01-20,Grace,North,Wholesale,Electronics,Tablet,In-Store,7,1292,9044
+ORD1232,2023-09-13,Bob,East,Regular,Electronics,Smartphone,Online,5,954,4770
+ORD1233,2023-08-14,Alice,West,Regular,Clothing,Dress,Online,14,1054,14756
+ORD1234,2023-12-21,Frank,South,Wholesale,Furniture,Dining Table,Reseller,5,1089,5445
+ORD1235,2023-12-30,Bob,South,Wholesale,Furniture,Bed,Online,4,1003,4012
+ORD1236,2023-07-21,Frank,West,Regular,Electronics,Laptop,Reseller,8,742,5936
+ORD1237,2023-02-28,David,East,Wholesale,Furniture,Sofa,Online,14,781,10934
+ORD1238,2023-08-12,David,South,Wholesale,Clothing,Dress,In-Store,14,277,3878
+ORD1239,2023-07-28,Bob,North,Regular,Clothing,Shirt,Online,1,1288,1288
+ORD1240,2023-02-09,Charlie,East,Wholesale,Home Appliances,Refrigerator,In-Store,14,670,9380
+ORD1241,2023-10-08,Eva,North,Regular,Furniture,Bed,Online,2,386,772
+ORD1242,2023-09-03,Bob,North,Regular,Electronics,Smartphone,Online,7,1374,9618
+ORD1243,2023-01-04,Bob,North,Wholesale,Clothing,Jeans,Online,6,1408,8448
+ORD1244,2023-01-29,Grace,West,Premium,Electronics,Laptop,Reseller,10,591,5910
+ORD1245,2023-08-03,Frank,West,Premium,Electronics,Smartphone,In-Store,13,759,9867
+ORD1246,2023-11-22,Bob,South,Regular,Furniture,Bed,Online,5,224,1120
+ORD1247,2023-12-07,Grace,East,Regular,Electronics,Camera,Reseller,2,277,554
+ORD1248,2023-02-03,Alice,East,Premium,Electronics,Tablet,Reseller,10,190,1900
+ORD1249,2023-03-17,Bob,East,Wholesale,Furniture,Dining Table,In-Store,1,1326,1326
+ORD1250,2023-01-27,Grace,North,Premium,Furniture,Bed,In-Store,7,491,3437
+ORD1251,2023-05-14,Grace,North,Regular,Clothing,Jacket,Online,9,1460,13140
+ORD1252,2023-04-08,David,North,Premium,Clothing,Dress,In-Store,11,317,3487
+ORD1253,2023-06-22,Alice,West,Wholesale,Clothing,Shirt,Online,12,970,11640
+ORD1254,2023-07-09,Frank,North,Premium,Home Appliances,Washing Machine,Online,1,1071,1071
+ORD1255,2023-11-06,Grace,West,Regular,Clothing,Jacket,In-Store,10,279,2790
+ORD1256,2023-06-30,Eva,East,Wholesale,Clothing,Dress,In-Store,11,968,10648
+ORD1257,2023-01-29,Alice,South,Wholesale,Clothing,Jacket,Online,4,943,3772
+ORD1258,2023-01-11,Frank,West,Regular,Furniture,Chair,Reseller,5,1469,7345
+ORD1259,2023-07-06,Eva,South,Regular,Furniture,Chair,Reseller,4,1286,5144
+ORD1260,2023-08-15,Frank,West,Wholesale,Home Appliances,Washing Machine,Online,7,893,6251
+ORD1261,2023-02-24,Bob,South,Premium,Clothing,Jacket,Online,6,247,1482
+ORD1262,2023-03-10,Charlie,South,Wholesale,Home Appliances,Washing Machine,In-Store,8,907,7256
+ORD1263,2023-09-07,Alice,South,Wholesale,Home Appliances,Air Conditioner,In-Store,8,1462,11696
+ORD1264,2023-05-28,Eva,North,Wholesale,Furniture,Sofa,Online,4,900,3600
+ORD1265,2023-12-03,Frank,North,Premium,Electronics,Laptop,Reseller,3,1417,4251
+ORD1266,2023-07-20,Grace,East,Premium,Furniture,Dining Table,Reseller,14,514,7196
+ORD1267,2023-07-20,Charlie,West,Regular,Home Appliances,Washing Machine,In-Store,10,222,2220
+ORD1268,2023-05-09,David,South,Wholesale,Home Appliances,Washing Machine,In-Store,8,1190,9520
+ORD1269,2023-04-14,David,North,Wholesale,Electronics,Camera,In-Store,9,210,1890
+ORD1270,2023-02-08,Frank,East,Premium,Clothing,Dress,Online,10,174,1740
+ORD1271,2023-08-17,Frank,South,Regular,Clothing,Jeans,Reseller,3,280,840
+ORD1272,2023-04-12,Frank,East,Regular,Home Appliances,Refrigerator,Online,12,321,3852
+ORD1273,2023-10-02,Grace,North,Wholesale,Furniture,Chair,In-Store,2,673,1346
+ORD1274,2023-11-01,Bob,North,Regular,Home Appliances,Air Conditioner,Reseller,5,1217,6085
+ORD1275,2023-11-26,Charlie,North,Premium,Home Appliances,Microwave,Online,13,1190,15470
+ORD1276,2023-11-14,Eva,North,Wholesale,Home Appliances,Air Conditioner,In-Store,9,161,1449
+ORD1277,2023-09-21,Eva,North,Premium,Furniture,Chair,In-Store,8,488,3904
+ORD1278,2023-08-03,David,North,Regular,Home Appliances,Washing Machine,In-Store,5,1254,6270
+ORD1279,2023-07-17,Frank,West,Premium,Furniture,Chair,Reseller,5,523,2615
+ORD1280,2023-03-30,Frank,South,Regular,Electronics,Laptop,Reseller,8,615,4920
+ORD1281,2023-12-31,Eva,North,Premium,Electronics,Laptop,Reseller,12,638,7656
+ORD1282,2023-10-15,David,West,Wholesale,Clothing,Dress,Reseller,10,196,1960
+ORD1283,2023-07-18,Bob,North,Regular,Electronics,Smartphone,Reseller,10,1189,11890
+ORD1284,2023-03-27,Alice,West,Wholesale,Electronics,Tablet,In-Store,1,1130,1130
+ORD1285,2023-09-27,Eva,East,Premium,Furniture,Dining Table,Online,10,540,5400
+ORD1286,2023-06-25,David,East,Wholesale,Furniture,Sofa,Online,5,286,1430
+ORD1287,2023-08-03,David,West,Wholesale,Clothing,Shirt,Online,8,976,7808
+ORD1288,2023-08-11,Frank,West,Wholesale,Home Appliances,Microwave,In-Store,13,743,9659
+ORD1289,2023-04-13,Bob,East,Wholesale,Clothing,Jeans,Reseller,14,521,7294
+ORD1290,2023-06-01,Frank,South,Premium,Electronics,Smartphone,Reseller,1,1332,1332
+ORD1291,2023-07-07,Bob,South,Wholesale,Electronics,Tablet,In-Store,3,769,2307
+ORD1292,2023-05-11,Bob,West,Wholesale,Electronics,Camera,Reseller,13,1271,16523
+ORD1293,2023-07-02,Bob,East,Wholesale,Furniture,Dining Table,Reseller,5,1344,6720
+ORD1294,2023-02-08,Eva,West,Wholesale,Home Appliances,Air Conditioner,Online,7,513,3591
+ORD1295,2023-01-04,Alice,East,Wholesale,Electronics,Laptop,Online,8,646,5168
+ORD1296,2023-07-29,Bob,East,Regular,Home Appliances,Microwave,Reseller,13,1131,14703
+ORD1297,2023-04-18,Bob,East,Wholesale,Home Appliances,Refrigerator,Online,1,165,165
+ORD1298,2023-08-15,Eva,North,Premium,Home Appliances,Washing Machine,Online,14,460,6440
+ORD1299,2023-09-08,Alice,West,Regular,Electronics,Camera,Online,10,695,6950
